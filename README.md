@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./images/pactune-logo.svg" width="128" alt="Vinyl Music Player" />
+<img src="./images/pactune-logo.svg" width="128" alt="PacTune Music Player" />
 
-# Vinyl
+# PacTune
 
 **A simple and beautiful music player for Linux**
 
@@ -16,11 +16,11 @@ Built with Rust and GTK4 for a fast and smooth experience.
 
 ---
 
-## What is Vinyl?
+## What is PacTune?
 
-Vinyl is a music player that makes listening to your music collection easy and enjoyable. It has a clean design that fits perfectly with modern Linux desktops, especially GNOME.
+PacTune is a music player that makes listening to your music collection easy and enjoyable. It has a clean design that fits perfectly with modern Linux desktops, especially GNOME.
 
-**Why Vinyl?**
+**Why PacTune?**
 - Fast and lightweight
 - Easy to use
 - Beautiful album artwork display
@@ -64,7 +64,7 @@ Vinyl is a music player that makes listening to your music collection easy and e
 ## Screenshots
 
 <div align="center">
-  <img src="./images/Screenshort-1.png" alt="Vinyl Music Player" width="800" />
+  <img src="./images/Screenshort-1.png" alt="PacTune Music Player" width="800" />
   <p><i>Album view with cover art grid</i></p>
 </div>
 
@@ -110,7 +110,7 @@ If something is missing, the installer will tell you what to install.
 
 ### First Time Setup
 
-1. **Open Vinyl** from your application menu
+1. **Open PacTune** from your application menu
 2. **Add Music** — Click "Open Folder" and choose your music folder
 3. **Browse Albums** — Switch to the "Albums" tab to see your collection
 
@@ -127,7 +127,7 @@ If something is missing, the installer will tell you what to install.
 
 - Click the lyrics button to show/hide lyrics
 - Lyrics sync automatically with the music
-- If lyrics aren't found, Vinyl tries to download them
+- If lyrics aren't found, PacTune tries to download them
 
 ### Keyboard Shortcuts
 
@@ -175,7 +175,7 @@ This rebuilds and reinstalls instantly — perfect for testing changes.
 
 ## Supported Audio Formats
 
-Vinyl plays most common audio files:
+PacTune plays most common audio files:
 - MP3
 - FLAC
 - OGG Vorbis
@@ -239,7 +239,7 @@ See the [LICENSE](LICENSE) file for details.
 
 **Enjoy your music! 🎵**
 
-If you like Vinyl, give it a star on [GitHub](https://github.com/codemonkx/PacTune)!
+If you like PacTune, give it a star on [GitHub](https://github.com/codemonkx/PacTune)!
 
 </div>
 
